@@ -15,7 +15,7 @@ This project applies spatial machine learning techniques—including clustering 
 * **Source:** The raw data for this analysis was obtained from Zenodo:
   > Gyódi, K., & Nawaro, Ł. (2021). *Determinants of Airbnb prices in European cities: A spatial econometrics approach (Supplementary Material)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4446043
 
-* **Preprocessing:** The raw data consists of multiple CSV files separated by city and day type (weekdays vs. weekends). A custom script merges these files into a single, comprehensive dataset while extracting the city and day type from the filenames to use as new categorical features.
+* **Preprocessing:** Is handled inside of main notebook
 
 ## How to Reproduce
 This project was developed locally using **VSCode**. To reproduce the analysis:
