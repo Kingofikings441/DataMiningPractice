@@ -1,0 +1,10 @@
+### `requirements.txt`
+# Since you ran this locally in VSCode, this list includes the packages required to run the data manipulation, machine learning models, and visualizations found in your notebook.
+# ```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
